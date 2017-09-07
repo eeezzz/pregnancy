@@ -1,0 +1,13 @@
+PODS:
+  - MBProgressHUD (0.8)
+  - ViewDeck (2.3.1)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 0.8)
+  - ViewDeck (~> 2.3.1)
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
+  ViewDeck: 2cdc67c4b41a10cafc7556b982f028409e33604d
+
+COCOAPODS: 0.31.1
